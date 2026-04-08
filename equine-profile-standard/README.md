@@ -6,7 +6,7 @@
 [![Version](https://img.shields.io/badge/Version-1.0-green.svg)](equine-profile-standard/v1.0/schema/equine.profile.standard.v1.0.json)
 
 Published by **Horse AI — TechXZone Pvt Ltd**  
-Contact: akanksha@horseai.org
+Contact: contact@horseai.org
 
 ---
 
